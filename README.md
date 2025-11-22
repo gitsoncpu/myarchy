@@ -3,12 +3,12 @@
 
 
 ```bash
-labwc with xfce4 elements autostarted is preferred over 
-XFCEs Wayland session at ~/.config/xfce/labwc/
+labwc with xfce4 parts autostarted preferred over 
+xfce-wayland.desktop at ~/.config/xfce/labwc/
 ```
 
 ### random
 ##### cursor https://github.com/ful1e5/Bibata_Cursor
 ##### block ytshorts with ubo filter list ``` https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt ```
-##### Startpage- https://gitlab.com/fazzi/startpage
+##### startpage- https://gitlab.com/fazzi/startpage
 ##### browser emojis - https://aur.archlinux.org/packages/noto-color-emoji-fontconfig ``` noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra ```

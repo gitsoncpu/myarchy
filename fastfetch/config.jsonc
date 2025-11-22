@@ -28,24 +28,23 @@
       "keyColor": "#C48E96"
     },
     {
-      "type": "packages",
+      "type": "cpu",
       "key": "  ◈",
       "keyColor": "#BCB8B4"
     },
     {
-      "type": "de",
+      "type": "shell",
       "key": "  ◈",
       "keyColor": "#B4B6D2"
     },
 
     {
-      "type": "shell",
+      "type": "wm",
       "key": "  ◈",
       "keyColor": "#ACC2EE"
     },
     {
-      "type": "cpu",
-      "format": "{1}",
+      "type": "de",
       "key": "  ◈",
       "keyColor": "#A9D1FF"
     }, 

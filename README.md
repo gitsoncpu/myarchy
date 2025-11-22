@@ -1,5 +1,5 @@
 # labwc + XFCE 
-<img width="1536" height="864" alt="20251122_2036" src="https://github.com/user-attachments/assets/2f711cf3-3378-4e67-8929-1d23985a1686" />
+<img width="1536" height="864" alt="20251122_2038" src="https://github.com/user-attachments/assets/62832125-216e-4962-bd65-d682cbeb9aa9" />
 
 
 ```bash

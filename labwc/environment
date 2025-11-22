@@ -15,8 +15,9 @@
 ## For further details, see xkeyboard-config(7)
 ##
 
+MOZ_ENABLE_WAYLAND=1
 XKB_DEFAULT_LAYOUT=en
-#XKB_DEFAULT_MODEL=pc104
+XDG_CURRENT_DESKTOP=wlroots
 
 QT_QPA_PLATFORM=wayland
 QT_QPA_PLATFORMTHEME=qt5ct  # or "gnome" if you prefer
